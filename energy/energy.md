@@ -26,7 +26,7 @@ A total of 483,947.3 TJ[^8] of energy in all its forms were available to the Gua
 
 [^8]: Some of this energy was produced locally and a portion was imported.
 
-If we code
+In the following figure, we coded the different combinations of economic sectors and energy products according to its total use by different tonalities. Darker tones represent higher uses of an energy product relative to the entire's economy use of all energy types in terajoules.
 
 ## Tables of main results (viene del capítulo de resultados del documento de resultados).
 
