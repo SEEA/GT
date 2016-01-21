@@ -63,7 +63,7 @@
 	            <li><a href="./seea">SEEA Overview</a></li>
 	            <li role="separator" class="divider"></li>
 	            <li><a href="./energy">Energy</a></li>
-				<li><a href="./forest">Forest</a></li>
+				<li><a href="./forest">Forests</a></li>
 				<li><a href="./water">Water</a></li>
 				<li><a href="./ecosystem">Ecosystems</a></li>
 				<li><a href="./waste">Waste</a></li>
@@ -125,7 +125,7 @@
          <div class="col-md-4">
  		  <div class="panel panel-default">
  		    <div class="panel-heading">
- 		      <h3 class="panel-title">FOREST</h3>
+ 		      <h3 class="panel-title">FORESTS</h3>
  		    </div>
  		    <div class="panel-body">
  		      <img src="./img/chiclet-forest.png" class="img-circle img-responsive center-block" alt="Energy">
