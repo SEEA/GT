@@ -1,4 +1,7 @@
-# Energy
+---
+title: "Guatemala: a country that runs on fuelwood"
+
+---
 
 
 ## Introduction
@@ -12,7 +15,7 @@ Rather than translating these documents verbatim, we opted to slightly rewrite a
 We also tried to make them more suitable for the different ways in which people consume information. For that reason, each of the reports can be read online, downloaded as an e-book or PDF, or acquired in printed format.
 
 
-## Energy, the environment, and the economy in a nutshell
+## Energy, the environment, and the Guatemalan economy in a nutshell
 
 [**This text accompanies the Figure with the diagram.**]
 
@@ -20,7 +23,7 @@ Nature provides the Guatemalan economy with coal, wind, hydraulic and geothermal
 
 Different industries, or economic activities, use both primary and secondary energy sources as inputs in their production processes. Households, in turn, use them to satisfy domestic needs like cooking, powering of devices, heating or cooling, among others. One special industry uses large amounts of various types of primary and secondary sources to produce electricity, which is then used universally by everyone else in the economy.
 
-Finally, from the combustion, or simply burning, of some these energy products, industries emit various gases that go up into the atmosphere. Some of these are known as greenhouse gases and in our accounting efforts we have tracked carbon dioxide ($CO_2$), nitrous oxide ($N_2O$), and methane ($CH_4$).
+Finally, from the combustion, or simply burning, of some these energy products, industries emit various gases that go up into the atmosphere. Some of these are known as greenhouse gases and in our accounting efforts we have tracked carbon dioxide (CO<sub>2</sub>), nitrous oxide (N<sub>2</sub>O), and methane (CH<sub>4</sub>). 
 
 
 ## Executive summary
@@ -39,7 +42,7 @@ Finally, from the combustion, or simply burning, of some these energy products, 
 
 
 
-## Main findings and discussion
+## Main findings
 
 ### Flows from the environment to the economy
 
@@ -84,7 +87,7 @@ Figure 5 shows an indicator called energy intensity for six economic industries 
 In the case of Guatemala, the production of bread shows a decrease in its intensity in the period. The production of ceramics shows a more erratic behavior, but mantains its high level of energy use, whereas transportation and general mills have a more stable energy intensity over time. This is probably due to the fact that technology is replaced less often in those activities.
 
 
-## Tables of main results (viene del capítulo de resultados del documento de resultados).
+## Tables of results
 
 
 ### Energy supply
@@ -138,6 +141,7 @@ The information on flows allowed us to construct an indicator showing the intens
 
 We also computed the decoupling indicator, a measure that measures the gap between the growth rate of energy consumption and the growth rate of the economy. In an ideal situation, the economy would grow infinitely, while the consumption of energy would decrease over time. This would mean that the country would be so efficient with its resources that it could produce more each year with the same consumption of energy as in the previous year, or have the same production, but with less energy. On an aggregate basis, the Guatemalan economy showed a clear example of decoupling where the economy grew at a much more rapid pace than that of its energy demand.
 
+<!--
 ## Annex 1. Methodological aspects and data
 
 a)	Conceptual framework (1 page)
@@ -151,3 +155,4 @@ d)	Special calculations
 Visual aids (1 – 2 pages; to be decided where)
 i)	Diagram from “folleto informativo”.
 ii)	Indicators page from “folleto informativo”
+-->
